@@ -1,2 +1,2 @@
-# URICyberClub
-uricyber.club github 
+# URI Cyber Club Webpage
+uricyber.club  
